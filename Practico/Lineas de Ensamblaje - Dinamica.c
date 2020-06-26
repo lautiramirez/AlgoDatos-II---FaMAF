@@ -23,7 +23,7 @@ int min_cost(int **a, int **t, int n){
         }
     }
 
-    return min(b[0][0], b[0][0]);
+    return min(b[0][0], b[1][0]);
 }
 
 int main(void){
