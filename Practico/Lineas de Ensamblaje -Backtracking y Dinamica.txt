@@ -25,5 +25,5 @@ Alumno: Ramirez Lautaro.
             od
         fi
 
-        r := min(b[1,1], b[1,1])
+        r := min(b[1,1], b[2,1])
     end fun
